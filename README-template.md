@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Design preview for the Time tracking dashboard coding challenge](./https://github.com/meghudash/Time-Tracking-Dashboard/blob/main/design/screenshot.png)
 
 
 
@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/meghudash/Time-Tracking-Dashboard
+- Live Site URL: https://meghudash.github.io/Time-Tracking-Dashboard/
 
 ## My process
 
@@ -46,25 +46,7 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
 
 ## Author
