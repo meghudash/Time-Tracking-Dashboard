@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Time tracking dashboard coding challenge](./https://github.com/meghudash/Time-Tracking-Dashboard/blob/main/design/screenshot.png)
+![Design preview for the Time tracking dashboard coding challenge](https://github.com/meghudash/Time-Tracking-Dashboard/blob/main/design/screenshot.png)
 
 
 
